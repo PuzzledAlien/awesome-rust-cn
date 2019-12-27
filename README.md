@@ -1,8 +1,8 @@
-# Awesome Rust [<img src="https://api.travis-ci.org/rust-unofficial/awesome-rust.svg?branch=master">](https://travis-ci.org/rust-unofficial/awesome-rust)
+# Awesome Rust 中文版
 
-A curated list of Rust code and resources.
+Rust资源列表
 
-If you want to contribute, please read [this](CONTRIBUTING.md).
+如果你想要贡献资源，请阅读贡献规范 [this](CONTRIBUTING.md)。
 
 ## Table of contents
 
