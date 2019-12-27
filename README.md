@@ -98,7 +98,7 @@ Rust资源列表
 
 ## 应用
 
-在生产环境运行Rust的组织请查看 [生产环境 - Rust 程序设计语言](https://www.rust-lang.org/zh-CN/production) 。
+想知道在生产环境运行Rust的组织有哪些？请查看 [生产环境 - Rust 程序设计语言](https://www.rust-lang.org/zh-CN/production) 。
 
 
 * [alacritty](https://github.com/jwilm/alacritty) — A cross-platform, GPU enhanced terminal emulator
