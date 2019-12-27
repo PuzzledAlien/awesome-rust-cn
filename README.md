@@ -98,7 +98,7 @@ Rust资源列表
 
 ## 应用
 
-See also [生产环境 - Rust 程序设计语言](https://www.rust-lang.org/zh-CN/production) organizations running Rust in production.
+在生产环境运行Rust的组织请查看 [生产环境 - Rust 程序设计语言](https://www.rust-lang.org/zh-CN/production) 。
 
 
 * [alacritty](https://github.com/jwilm/alacritty) — A cross-platform, GPU enhanced terminal emulator
@@ -1405,4 +1405,3 @@ A registry allows you to publish your Rust libraries as crate packages, to share
 ## License
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
-
