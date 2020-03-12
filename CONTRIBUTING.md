@@ -1,15 +1,15 @@
-# Contributing
+# 贡献守则
 
-Do you want to contribute? We'd love that.
+你想贡献吗？欢迎之至！
 
-Our goal is to have mostly projects that are stable and useful to many users.
+我们的目标是向许多用户提供大量的稳定和有用的项目。
 
-## How?
+## 如何贡献新的项目？
 
-The easiest way is to go to https://github.com/rust-unofficial/awesome-rust/blob/master/README.md and click on the "pen" icon in the upper right corner. Make the changes to the file and follow the instructions to create a pull request.
+最容易的方法是，访问 https://github.com/PuzzledAlien/awesome-rust-cn/blob/master/README.md ，点击右上角的 “🖊” 图标。然后对文件进行更改并按照说明创建 pull 请求。
 
-If you want to add an entry to the `README.md` please consider this:
+如果要在 “README.md” 中添加条目，请考虑：
 
-- is the entry valuable to people trying to get things done in Rust?
-- if you want to add something, please use the template `[YYY](https://crates.io/crates/YYY) — DESCRIPTION [<img src="https://api.travis-ci.org/XXX/YYY.svg?branch=master">](https://travis-ci.org/XXX/YYY)`
-- please pay attention to the alphabetical ordering.
+- 该条目对那些想要使用 Rust 达成目标的人是否有价值？
+- 添加内容时，请尽量使用模板 `[YYY](https://crates.io/crates/YYY) — 描述 [<img src="https://api.travis-ci.org/XXX/YYY.svg?branch=master">](https://travis-ci.org/XXX/YYY)`
+- 请注意英文字母顺序。
