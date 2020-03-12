@@ -4,7 +4,7 @@
 
 我们的目标是向许多用户提供大量的稳定和有用的项目。
 
-## 如何贡献新的项目？
+## 如何贡献？
 
 最容易的方法是，访问 https://github.com/PuzzledAlien/awesome-rust-cn/blob/master/README.md ，点击右上角的 “🖊” 图标。然后对文件进行更改并按照说明创建 pull 请求。
 
