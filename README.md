@@ -101,7 +101,7 @@ Rust资源列表
 想知道在生产环境运行Rust的组织有哪些？请查看 [生产环境 - Rust 程序设计语言](https://www.rust-lang.org/zh-CN/production) 。
 
 
-* [alacritty](https://github.com/jwilm/alacritty) — A cross-platform, GPU enhanced terminal emulator
+* [alacritty](https://github.com/jwilm/alacritty) — 一个终端模拟器，跨平台，依赖 GPU 增强优化
 * [asm-cli-rust](https://github.com/cch123/asm-cli-rust) — An interactive assembly shell written in rust.
 * [AnderEnder/s3find-rs](https://github.com/AnderEnder/s3find-rs) — A command line utility to walk an Amazon S3 hierarchy, an analog of find for Amazon S3 
 * [andschwa/rust-genetic-algorithm](https://github.com/andschwa/rust-genetic-algorithm) — A genetic algorithm for academic benchmark problems
