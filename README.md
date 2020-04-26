@@ -108,7 +108,7 @@ Rust资源列表
 * [cloudflare/boringtun](https://github.com/cloudflare/boringtun) — 用户空间有线保护 VPN 实现 
 * [denoland/deno](https://github.com/denoland/deno) — 用 V8、Rust 和 Tokio 构建的安全 JavaScript/TypeScript 运行时 
 * [ivanceras/diwata](https://github.com/ivanceras/diwata) — postgresql 数据库管理工具 
-* [linkerd/linkerd2-proxy](https://github.com/linkerd/linkerd2-proxy) — Kubernetes 超轻的  service mesh 
+* [linkerd/linkerd2-proxy](https://github.com/linkerd/linkerd2-proxy) — 超轻的  service mesh for Kubernetes 
 * [darrint/device-blocker](https://github.com/darrint/device-blocker) — Limit screen time to children's various mobile devices by blocking internet access on the family Wifi router.
 * [dlecan/generic-dns-update](https://github.com/dlecan/generic-dns-update) — A tool to update DNS zonefiles with your IP address 
 * [Factotum](https://github.com/snowplow/factotum) — [A system to programmatically run data pipelines](https://snowplowanalytics.com/blog/2016/04/09/introducing-factotum-data-pipeline-runner/) 
