@@ -103,12 +103,12 @@ Rust资源列表
 
 * [alacritty](https://github.com/jwilm/alacritty) — 一个终端模拟器，跨平台，依赖 GPU 增强优化
 * [asm-cli-rust](https://github.com/cch123/asm-cli-rust) — An interactive assembly shell written in rust.
-* [AnderEnder/s3find-rs](https://github.com/AnderEnder/s3find-rs) — A command line utility to walk an Amazon S3 hierarchy, an analog of find for Amazon S3 
-* [andschwa/rust-genetic-algorithm](https://github.com/andschwa/rust-genetic-algorithm) — A genetic algorithm for academic benchmark problems
-* [cloudflare/boringtun](https://github.com/cloudflare/boringtun) — A Userspace WireGuard VPN Implementation 
-* [denoland/deno](https://github.com/denoland/deno) — A secure JavaScript/TypeScript runtime built with V8, Rust, and Tokio 
-* [ivanceras/diwata](https://github.com/ivanceras/diwata) — A database administration tool for postgresql 
-* [linkerd/linkerd2-proxy](https://github.com/linkerd/linkerd2-proxy) — Ultralight service mesh for Kubernetes.
+* [AnderEnder/s3find-rs](https://github.com/AnderEnder/s3find-rs) — 用于遍历 Amazon S3 层次结构的命令行实用程序，类似于Amazon S3的find
+* [andschwa/rust-genetic-algorithm](https://github.com/andschwa/rust-genetic-algorithm) — 解决学术基准问题的遗传算法
+* [cloudflare/boringtun](https://github.com/cloudflare/boringtun) — 用户空间有线保护 VPN 实现 
+* [denoland/deno](https://github.com/denoland/deno) — 用 V8、Rust 和 Tokio 构建的安全 JavaScript/TypeScript 运行时 
+* [ivanceras/diwata](https://github.com/ivanceras/diwata) — postgresql 数据库管理工具 
+* [linkerd/linkerd2-proxy](https://github.com/linkerd/linkerd2-proxy) — Kubernetes 超轻的  service mesh 
 * [darrint/device-blocker](https://github.com/darrint/device-blocker) — Limit screen time to children's various mobile devices by blocking internet access on the family Wifi router.
 * [dlecan/generic-dns-update](https://github.com/dlecan/generic-dns-update) — A tool to update DNS zonefiles with your IP address 
 * [Factotum](https://github.com/snowplow/factotum) — [A system to programmatically run data pipelines](https://snowplowanalytics.com/blog/2016/04/09/introducing-factotum-data-pipeline-runner/) 
